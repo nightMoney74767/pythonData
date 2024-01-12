@@ -1,0 +1,2 @@
+<h1>Python Data Processing</h1>
+This project contains code that was worked on during an assessment at University of Chester and consists of multiple Python modules; each one pulls data from different formats (a CSV and JSON file as well as an SQL database) and makes modifications to enable consolidation into one format (e.g., renaming of column names). Pandas dataframes were used for this purpose. Once consolidated, all data is then exported to a new SQL database. For security reasons, info for both SQL databases have been redacted.
